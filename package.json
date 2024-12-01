@@ -4,7 +4,7 @@
   "description": "Extensions for C/C++ VEX Robotics development with PROS",
   "publisher": "NoahK216",
   "repository": "https://github.com/NoahK216/vex-pros-dev-extension-pack",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.95.0"
   },
